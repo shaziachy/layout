@@ -1,0 +1,45 @@
+.header{min-height: 80px;
+background-color: blue}
+
+.wrapper{overflow: hidden;}
+
+.contact{min-height: 180px;
+background-color: red;
+width: 60%;
+float: right;}
+.blog{min-height: 180px;
+background-color: cyan;
+width: 40%;
+float: left;}
+
+
+.container{ 
+	overflow: hidden; }
+
+.single {float: left;}
+
+.maroon{width: 33.33%; min-height: 150px;
+background-color: maroon; 
+}
+.purple{width: 33.33%; min-height: 150px;
+background-color: purple; }
+
+.sky{width: 33.33%; min-height: 150px;
+background-color: lightblue;}
+
+.row{
+overflow: hidden;
+}
+.column {float: left;}
+
+.one{width: 25%;
+	min-height: 120px; background-color: green}
+.two{width: 25%;
+	min-height: 120px; background-color: yellow}
+.three{width: 25%;
+	min-height: 120px; background-color: pink}
+.four{width: 25%;
+	min-height: 120px; background-color: brown}
+
+.footer{min-height: 80px;
+background-color:black}
